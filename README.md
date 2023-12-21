@@ -36,4 +36,4 @@ The model consists of a main Q-network and a target Q-network, each with the fol
 
 ## Note 
 
-This code was written 5 years ago, some dependencies would be outdated. 
+This code was written 2018, some dependencies would be outdated. 
